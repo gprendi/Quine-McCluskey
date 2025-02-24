@@ -3,6 +3,8 @@
 #include <functional>
 #include <unordered_set>
 #include <assert.h>
+#include <cstdint>
+#include <bits/stdc++.h>
 
 #ifndef N_EXT
 constexpr __uint128_t ONE = 1;

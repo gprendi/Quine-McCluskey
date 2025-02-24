@@ -2,6 +2,7 @@
 #include <vector>
 #include <functional>
 #include <assert.h>
+#include <cstdint>
 
 using namespace std;
 
