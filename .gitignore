@@ -1,0 +1,8 @@
+
+# Make compiled binaries
+benchmark_denseqmc
+benchmark_denseqmc_pure
+benchmark_sparseqmc
+denseqmc
+sparseqmc
+sparseqmcext
